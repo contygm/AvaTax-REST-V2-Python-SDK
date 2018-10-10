@@ -107,3 +107,4 @@ taxfiles/
 tax_code_list.py
 ~$x_Json.txt
 .DS_Store
+.vs/
